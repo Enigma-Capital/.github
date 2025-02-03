@@ -1,1 +1,1 @@
-
+Enigma Capital is an independent initiative focused on leveraging advanced algorithms and models for quantitative trading. With an emphasis on precision and adaptability, it aims to provide more accurate and reliable quant-driven insights compared to conventional public services. By continuously experimenting with strategies and refining approaches, Enigma Capital strives to push the boundaries of data-driven financial decision-making.
